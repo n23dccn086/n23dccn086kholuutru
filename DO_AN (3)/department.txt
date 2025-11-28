@@ -1,0 +1,6 @@
+=== DEPARTMENT ===
+PB001|Phòng Kinh doanh|Quản lý hoạt động kinh doanh và bán hàng|20
+PB002|Phòng Kỹ thuật|Phát triển và bảo trì hệ thống|15
+PB003|Phòng Nhân sự|Tuyển dụng và quản lý nhân sự|10
+PB004|Phòng Kế toán|Quản lý tài chính và kế toán|8
+PB005|Phòng Marketing|Quảng bá thương hiệu và sản phẩm|12

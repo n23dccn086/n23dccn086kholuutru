@@ -1,0 +1,12 @@
+=== EMPLOYEE ===
+NV002|Trần Thị Bình|25|Nữ|PB001|Nhân viên|1.2E7|0923456789|part
+NV003|Lê Văn Cường|32|Nam|PB002|Trưởng phòng|2.5E7|0934567890|full
+NV004|Phạm Thị Dung|27|Nữ|PB002|Nhân viên|1.3E7|0945678901|full
+NV005|Hoàng Văn Đạt|30|Nam|PB003|Nhân viên|1.4E7|0956789012|part
+NV006|Vũ Thị Em|26|Nữ|PB003|Phó phòng|1.8E7|0967890123|part
+NV007|Đặng Văn Phong|35|Nam|PB001|Trưởng nhóm|2.0E7|0978901234|full
+NV008|Bùi Thị Giang|24|Nữ|PB002|Nhân viên|1.1E7|0989012345|part
+NV009|Nguyễn Văn Hải|29|Nam|PB003|Nhân viên|1.35E7|0990123456|full
+NV010|Trần Thị Kim|31|Nữ|PB001|Nhân viên|1.25E7|0911234567|part
+NV001|anh|12|Nam|PB001|Nhân viên|1.2E7|0338694133|part
+
